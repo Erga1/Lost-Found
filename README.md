@@ -10,9 +10,9 @@ Post Management:
     Create new posts for lost or found items.
     Add item name, description, category, and an image.
     View and manage your own posts (edit/delete).
-Browse Posts: View all active posts, categorized by "found" or "lost" status.
+Browse Posts: View all active posts.
 Search Functionality: Easily search for specific items by name.
-User Profile: View and update account details (Full Name, Contact Phone, Account Created date).
+User Profile: View(Full Name, Contact Phone, Account Created date).
 Settings: Customize app experience with features like Dark Mode and Font Size adjustment.
 Image Support: Attach images to posts for better identification.
 
@@ -43,8 +43,8 @@ Gradle: For Android-specific build configurations (managed by Flutter).
 🚀 Getting Started (Using the Pre-built APK)
 
 
-Go to the Releases section of this GitHub repository (if you plan to use GitHub Releases for the APK).
-Alternatively, look for the app-release.apk (or similar name) file directly in the root or a designated build/ folder of this repository.
+Go to the Releases section of this GitHub repository .
+Look for the app-release.apk (or similar name).
 Download the latest APK file to your Android device.
 
 Enable "Install from Unknown Sources":
@@ -115,3 +115,6 @@ Run the app from your IDE:
 📄 License
 
 Distributed under the MIT License. See LICENSE for more information.
+
+!!!!disclaimer
+        The Forgot Password is not working
