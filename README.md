@@ -98,11 +98,11 @@ Run the app from your IDE:
 
 🤝 Contributor(group memeber)
 
-1. NEGASA RETA                             UGR/31072/15
+1. NEGASA RETA(NegasaReta)                             UGR/31072/15
 2. ERGABUS HIRPHA(Erga1)                      UGR/30475/15
-3. ABDISA GEBI                                UGR/30019/15 
-4. BEKAM BIRHANU                        UGR/30252/15
-5. LELISA WAKTOLA                        UGR/30816/15
+3. ABDISA GEBI(AbdisaGebi)                                UGR/30019/15 
+4. BEKAM BIRHANU(bekambirhanu)                        UGR/30252/15
+5. LELISA WAKTOLA(LelisaWaktola)                        UGR/30816/15
 6. MAHFUZ REDWAN(Mahred1)                    UGR/30846/15
 7. SEGNI MERGA(Sunerme)                             UGR/31202/15
 8. SALAHADIN NUREDIN                    UGR/31168/16
