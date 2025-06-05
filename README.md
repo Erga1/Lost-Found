@@ -29,6 +29,12 @@ Image Support: Attach images to posts for better identification.
 
 Video for Preview https://github.com/Erga1/Lost-Found/blob/main/lost_found%20preview%20videor.mp4
 
+Resized Preview Video 
+
+https://github.com/user-attachments/assets/5440721c-7539-4ad7-a3a6-c0d84b814422
+
+
+
 🛠️ Technologies Used
 
 Flutter: UI framework for building natively compiled applications for mobile, web, and desktop from a single codebase.
