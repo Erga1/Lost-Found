@@ -105,7 +105,7 @@ Run the app from your IDE:
 5. LELISA WAKTOLA(LelisaWaktola)                        UGR/30816/15
 6. MAHFUZ REDWAN(Mahred1)                    UGR/30846/15
 7. SEGNI MERGA(Sunerme)                             UGR/31202/15
-8. SALAHADIN NUREDIN                    UGR/31168/16
+8. SALAHADIN NUREDIN(Sala189)                    UGR/31168/16
 
   Fork the Project
   Create your Feature Branch (git checkout -b feature/AmazingFeature)
